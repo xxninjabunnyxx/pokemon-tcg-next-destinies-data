@@ -1,0 +1,94 @@
+---
+id: bw4-85
+name: Cinccino
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '90'
+types:
+- Colorless
+evolvesFrom: Minccino
+abilities:
+- name: Smooth Coat
+  text: If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent
+    that damage.
+  type: Ability
+attacks:
+- name: Echoed Voice
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '50'
+  text: During your next turn, this Pokémon's Echoed Voice attack does 50 more damage
+    (before applying Weakness and Resistance).
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: bw4
+  name: Next Destinies
+  series: Black & White
+  printedTotal: 99
+  total: 103
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: NXD
+  releaseDate: 2012/02/08
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/bw4/symbol.png
+    logo: https://images.pokemontcg.io/bw4/logo.png
+number: '85'
+artist: Kanako Eo
+rarity: Rare Holo
+flavorText: Their white fur is coated in a special oil that makes it easy for them
+  to deflect attacks.
+nationalPokedexNumbers:
+- 573
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/bw4/85.png
+  large: https://images.pokemontcg.io/bw4/85_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/bw4-85
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 0.19
+      mid: 0.68
+      high: 1.7
+      market: 0.69
+      directLow: 0.41
+    reverseHolofoil:
+      low: 0.31
+      mid: 0.76
+      high: 4.95
+      market: 0.74
+      directLow: 0.56
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/bw4-85
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.78
+    lowPrice: 0.02
+    trendPrice: 0.97
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 1.23
+    lowPriceExPlus: 0.25
+    avg1: 0.45
+    avg7: 0.79
+    avg30: 0.84
+    reverseHoloAvg1: 2.49
+    reverseHoloAvg7: 1.02
+    reverseHoloAvg30: 1.07

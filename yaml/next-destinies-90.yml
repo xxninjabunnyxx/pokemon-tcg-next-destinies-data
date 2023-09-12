@@ -1,0 +1,71 @@
+---
+id: bw4-90
+name: Pokémon Center
+supertype: Trainer
+subtypes:
+- Stadium
+rules:
+- Once during each player's turn, that player may heal 20 damage from 1 of his or
+  her Benched Pokémon.
+- This card stays in play when you play it. Discard this card if another Stadium card
+  comes into play. If another card with the same name is in play, you can't play this
+  card.
+set:
+  id: bw4
+  name: Next Destinies
+  series: Black & White
+  printedTotal: 99
+  total: 103
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: NXD
+  releaseDate: 2012/02/08
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/bw4/symbol.png
+    logo: https://images.pokemontcg.io/bw4/logo.png
+number: '90'
+artist: 5ban Graphics
+rarity: Uncommon
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/bw4/90.png
+  large: https://images.pokemontcg.io/bw4/90_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/bw4-90
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.1
+      mid: 0.25
+      high: 1.0
+      market: 0.2
+      directLow: 
+    reverseHolofoil:
+      low: 0.16
+      mid: 0.44
+      high: 2.0
+      market: 0.32
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/bw4-90
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.06
+    lowPrice: 0.02
+    trendPrice: 0.14
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.99
+    reverseHoloLow: 0.1
+    reverseHoloTrend: 0.54
+    lowPriceExPlus: 0.02
+    avg1: 0.02
+    avg7: 0.18
+    avg30: 0.15
+    reverseHoloAvg1: 0.99
+    reverseHoloAvg7: 0.45
+    reverseHoloAvg30: 0.49
